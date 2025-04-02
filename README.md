@@ -1,10 +1,9 @@
 ![Aditya Vikram Singh Banner](https://github.com/luisomdev/luisomdev/blob/main/resources/github-header-image.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Luisomdev</h2>
+<img alt="Night Coding" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeno5MW1mbjc2OXpqMDhxNzVuZ2Rma2Zzamk5dGZya3J6ZWtya3E4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BK1EfIsdkKZMY/giphy.gif" width='40' align="left"/><h1> Hey there! I'm Luisomdev</h1>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Luisomdev -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### :v: &nbsp;About Me
 
 💡 &nbsp;I like to explore areas of computer science, my favorites are cybersecurity and robotics.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, and Electronic.\
