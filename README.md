@@ -24,7 +24,10 @@
 [![My Skills](https://skillicons.dev/icons?i=vue,react,rust)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=graphql,postgres,sqlite)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql,nginx,redis)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=graphql,postgresql,red)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cloudflare,astro)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,spring)](https://skillicons.dev)
+
 
 <br> </br>
 <br> </br>
