@@ -47,7 +47,7 @@
 <a href="https://discord.com/channels/@me"><img src="https://badgen.net/badge/icon/discord?icon=discord&label=luisomdev60"/></a>
 <a href="https://www.linkedin.com/in/luisomdev60/"><img src="https://badgen.net/badge/icon/Linkedin?icon=rss&label=luisomdev"/></a>
 <a href="mailto:luisomdev@gmail.com"><img src="https://badgen.net/badge/icon/email?icon=rss&label=luisomdev@gmail.com"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://badgen.net/badge/icon/Facebook?icon=rss&label=luisomdev"/></a>
+<a href="https://www.facebook.com/profile.php?id=61569572443695"><img src="https://badgen.net/badge/icon/Facebook?icon=rss&label=luisomdev"/></a>
 <a href="https://github.com/luisomdev"> <img alt="Static Badge" src="https://badgen.net/badge/icon/github?icon=github&label=luisomdev">
  </a>
 
