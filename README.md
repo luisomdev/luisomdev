@@ -19,7 +19,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,py,java)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=cpp,html,css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=docker,redis,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,redis,robloxstudio)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=graphql,rust,sqlite)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql,cloudflare,nginx)](https://skillicons.dev)
 
