@@ -6,15 +6,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+💡 &nbsp;I like to explore areas of computer science, my favorites are cybersecurity and robotics.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, and Electronic.\
+✍️ &nbsp;In my hobby I really like taking pictures, in fact I hope to buy a good camera.\
+✉️ &nbsp;You can shoot me an email at luisomdev@gmail.com I'll try to respond as soon as I can
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFoMng2amg3dWg0ZWdjazFhbzF4YnVjaTNob2djdGd5dDU3MjRpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iye29H39h7qVbgY/giphy.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -53,14 +50,14 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://discord.com/channels/@me"><img src="https://badgen.net/badge/icon/discord?icon=discord&label=luisomdev60"/></a>
+<a href="https://www.linkedin.com/in/luisomdev60/"><img src="https://badgen.net/badge/icon/Linkedin?icon=rss&label=luisomdev"/></a>
+<a href="mailto:luisomdev@gmail.com"><img src="https://badgen.net/badge/icon/email?icon=rss&label=luisomdev@gmail.com"/></a>
+<a href="https://facebook.com/AVS1508"><img src="https://badgen.net/badge/icon/Facebook?icon=rss&label=luisomdev"/></a>
+<a href="https://github.com/luisomdev"> <img alt="Static Badge" src="https://badgen.net/badge/icon/github?icon=github&label=luisomdev">
+ </a>
+
+  
 </p>
 
 -----
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
