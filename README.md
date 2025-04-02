@@ -25,8 +25,14 @@
 [![My Skills](https://skillicons.dev/icons?i=graphql,postgres,sqlite)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql,nginx,redis)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cloudflare,astro)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,spring)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=gcp,flutter)](https://skillicons.dev)
+
+### :sparkling_heart: &nbsp;Favorite stack 
+
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,astro,typescript)](https://skillicons.dev)
+<br> </br>
+[![My Skills](https://skillicons.dev/icons?i=flutter,supabase,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,cs,dotnet)](https://skillicons.dev)
 
 
 <br> </br>
