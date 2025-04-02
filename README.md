@@ -18,13 +18,11 @@
 ### 🛠 &nbsp;Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,py,cs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=dart,cpp,typescript)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java,html,css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=docker,go,lua)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vue,react,rust)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=graphql,postgres,sqlite)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql,nginx,redis)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cloudflare,astro)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,redis,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=graphql,rust,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,cloudflare,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
 ### :sparkling_heart: &nbsp;Favorite stack 
 
