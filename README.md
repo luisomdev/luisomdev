@@ -24,11 +24,11 @@
 
 ### :sparkling_heart: &nbsp;Favorite stack 
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,dotnet,vue)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=postgres,astro,typescript)](https://skillicons.dev)
 <br> </br>
 [![My Skills](https://skillicons.dev/icons?i=flutter,supabase,go)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=fastapi,cs,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,cs)](https://skillicons.dev)
 
 
 <br> </br>
