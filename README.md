@@ -11,6 +11,8 @@
 ✍️ &nbsp;In my hobby I really like taking pictures, in fact I hope to buy a good camera.\
 ✉️ &nbsp;You can shoot me an email at luisomdev@gmail.com I'll try to respond as soon as I can
 
+<br> </br>
+
 <img alt="Night Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFoMng2amg3dWg0ZWdjazFhbzF4YnVjaTNob2djdGd5dDU3MjRpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iye29H39h7qVbgY/giphy.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
