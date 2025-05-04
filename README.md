@@ -31,7 +31,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vue)](https://www.sqlite.org/)
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://www.sqlite.org/)
 [![My Skills](https://skillicons.dev/icons?i=svg)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=penpot)](https://www.sqlite.org/)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://www.sqlite.org/)
 [![My Skills](https://skillicons.dev/icons?i=tauri)](https://www.sqlite.org/)
 [![My Skills](https://skillicons.dev/icons?i=vite)](https://www.sqlite.org/)
 [![My Skills](https://skillicons.dev/icons?i=vitest)](https://www.sqlite.org/)
