@@ -12,8 +12,6 @@
 
 <br> </br>
 
-<img alt="Night Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFoMng2amg3dWg0ZWdjazFhbzF4YnVjaTNob2djdGd5dDU3MjRpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iye29H39h7qVbgY/giphy.gif" align="right"/>
-
 ### 🛠 &nbsp;Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,py,java)](https://skillicons.dev)
