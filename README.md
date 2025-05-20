@@ -13,21 +13,25 @@
 <br> </br>
 
 ### 🛠 &nbsp;Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/es/docs/Glossary/HTML5)
-[![My Skills](https://skillicons.dev/icons?i=htmx)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=css)]([https://docker.com](https://developer.mozilla.org/en-US/docs/Web/CSS))
-[![My Skills](https://skillicons.dev/icons?i=js)]([https://docker.com](https://developer.mozilla.org/en-US/docs/Web/JavaScript))
-[![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)
-[![My Skills](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/es)
-[![My Skills](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/docs/)
-[![My Skills](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
-[![My Skills](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/)
+[![My Skills](https://skillicons.dev/icons?i=anaconda)](https://www.sqlite.org/)
+[![My Skills](https://skillicons.dev/icons?i=bash)](https://www.sqlite.org/)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://www.sqlite.org/)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://www.sqlite.org/)
+[![My Skills](https://skillicons.dev/icons?i=latex)](https://www.sqlite.org/)
+[![My Skills](https://skillicons.dev/icons?i=md)](https://www.sqlite.org/)
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://www.sqlite.org/)
 [![My Skills](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
 [![My Skills](https://skillicons.dev/icons?i=postgres)](https://www.sqlite.org/)
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.sqlite.org/)
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.sqlite.org/)
 [![My Skills](https://skillicons.dev/icons?i=redis)](https://www.sqlite.org/)
+
+### &nbsp;Frontend
+[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/es/docs/Glossary/HTML5)
+[![My Skills](https://skillicons.dev/icons?i=htmx)](https://www.sqlite.org/)
+[![My Skills](https://skillicons.dev/icons?i=css)]([https://docker.com](https://developer.mozilla.org/en-US/docs/Web/CSS))
+[![My Skills](https://skillicons.dev/icons?i=js)]([https://docker.com](https://developer.mozilla.org/en-US/docs/Web/JavaScript))
+[![My Skills](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/docs/)
 [![My Skills](https://skillicons.dev/icons?i=vue)](https://www.sqlite.org/)
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://www.sqlite.org/)
 [![My Skills](https://skillicons.dev/icons?i=svg)](https://www.sqlite.org/)
@@ -37,34 +41,33 @@
 [![My Skills](https://skillicons.dev/icons?i=vitest)](https://www.sqlite.org/)
 [![My Skills](https://skillicons.dev/icons?i=astro)](https://www.sqlite.org/)
 [![My Skills](https://skillicons.dev/icons?i=nuxtjs)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=docker)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=nginx)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=nest)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=fastapi)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=spring)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=go)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=firebase)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=supabase)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=pocketbase)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=robloxstudio)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=anaconda)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=bash)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=blender)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=git)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=gcp)](https://www.sqlite.org/)
+
+
+### &nbsp;Backend
+[![My Skills](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/)
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![My Skills](https://skillicons.dev/icons?i=nginx)](https://nginx.org/)
+[![My Skills](https://skillicons.dev/icons?i=nest)](https://nestjs.com/)
+[![My Skills](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
+[![My Skills](https://skillicons.dev/icons?i=spring)](https://spring.io/)
+[![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
+[![My Skills](https://skillicons.dev/icons?i=supabase)](https://supabase.com/)
 [![My Skills](https://skillicons.dev/icons?i=hibernate)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=latex)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=lua)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=md)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=postman)](https://www.sqlite.org/)
 [![My Skills](https://skillicons.dev/icons?i=prisma)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=selenium)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=godot)](https://www.sqlite.org/)
+
+### &nbsp;Electronic
+
+[![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/es)
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
 [![My Skills](https://skillicons.dev/icons?i=wasm)](https://www.sqlite.org/)
 [![My Skills](https://skillicons.dev/icons?i=opencv)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=Docker)](https://docker.com)
+
+### 🛠 &nbsp;Games
+[![My Skills](https://skillicons.dev/icons?i=blender)](https://www.sqlite.org/)
+[![My Skills](https://skillicons.dev/icons?i=robloxstudio)](https://www.sqlite.org/)
+[![My Skills](https://skillicons.dev/icons?i=godot)](https://www.sqlite.org/)
+[![My Skills](https://skillicons.dev/icons?i=lua)](https://www.sqlite.org/)
 
 
 <br> </br>
