@@ -1,46 +1,43 @@
-![Aditya Vikram Singh Banner](https://github.com/luisomdev/luisomdev/blob/main/resources/github-header-image.png)
+![😂 ](https://github.com/luisomdev/luisomdev/blob/main/resources/github-header-image.png)
 
-<img alt="Night Coding" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeno5MW1mbjc2OXpqMDhxNzVuZ2Rma2Zzamk5dGZya3J6ZWtya3E4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BK1EfIsdkKZMY/giphy.gif" width='40' align="left"/><h1> Hey there! I'm Luisomdev</h1>
+<h1> :smiley_cat: Holaaa! Soy Luisomdev</h1>
 
 
-### :v: &nbsp;About Me
+### :v: &nbsp;Sobre mí 
 
-💡 &nbsp;I like to explore areas of computer science, my favorites are cybersecurity and robotics.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, and Electronic.\
-✍️ &nbsp;In my hobby I really like taking pictures, in fact I hope to buy a good camera.\
-✉️ &nbsp;You can shoot me an email at luisomdev@gmail.com I'll try to respond as soon as I can
-
-<br> </br>
+:hearts: Tengo muchas ideas aunque la mayoria son malas 😂 (pero si tengo algunas que son buenas) .\
+:eyes: Mi hobby suele ser tomar fotos de muchos lugares, me gusta tomar fotos de la noche y atardecer .\
+:e-mail: Puedes enviarme un email -> luisomdev@gmail.com .\
+:pushpin: Me gusta aprender nuevas cosas como electronica, juegos y fotos, etc, no soy un profesional en esas areas pero gusta explorar
 
 ### 🛠 &nbsp;Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=anaconda)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=bash)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=git)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=latex)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=md)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=postman)](https://www.sqlite.org/)
+[![My Skills](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![My Skills](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
+[![My Skills](https://skillicons.dev/icons?i=md)](https://developer.mozilla.org/es/docs/MDN/Writing_guidelines/Howto/Markdown_in_MDN)
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 [![My Skills](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=postgres)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=redis)](https://www.sqlite.org/)
+[![My Skills](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/docs/)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+[![My Skills](https://skillicons.dev/icons?i=redis)](https://redis.io/)
 
 ### &nbsp;Frontend
 [![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/es/docs/Glossary/HTML5)
-[![My Skills](https://skillicons.dev/icons?i=htmx)](https://www.sqlite.org/)
+[![My Skills](https://skillicons.dev/icons?i=htmx)](https://htmx.org/)
 [![My Skills](https://skillicons.dev/icons?i=css)]([https://docker.com](https://developer.mozilla.org/en-US/docs/Web/CSS))
 [![My Skills](https://skillicons.dev/icons?i=js)]([https://docker.com](https://developer.mozilla.org/en-US/docs/Web/JavaScript))
 [![My Skills](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/docs/)
-[![My Skills](https://skillicons.dev/icons?i=vue)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=svg)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=tauri)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=vite)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=vitest)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=astro)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=nuxtjs)](https://www.sqlite.org/)
+[![My Skills](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![My Skills](https://skillicons.dev/icons?i=svg)](https://developer.mozilla.org/es/docs/Web/SVG)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+[![My Skills](https://skillicons.dev/icons?i=tauri)](https://tauri.app/)
+[![My Skills](https://skillicons.dev/icons?i=vite)](https://vite.dev/)
+[![My Skills](https://skillicons.dev/icons?i=vitest)](https://vitest.dev/)
+[![My Skills](https://skillicons.dev/icons?i=astro)](https://astro.build/)
+[![My Skills](https://skillicons.dev/icons?i=nuxtjs)](https://nuxt.com/)
 
 
 ### &nbsp;Backend
@@ -52,26 +49,25 @@
 [![My Skills](https://skillicons.dev/icons?i=spring)](https://spring.io/)
 [![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
 [![My Skills](https://skillicons.dev/icons?i=supabase)](https://supabase.com/)
-[![My Skills](https://skillicons.dev/icons?i=hibernate)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=prisma)](https://www.sqlite.org/)
+[![My Skills](https://skillicons.dev/icons?i=hibernate)](https://hibernate.org/)
+[![My Skills](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io/)
 
 ### &nbsp;Electronic
 
 [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![My Skills](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/es)
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
-[![My Skills](https://skillicons.dev/icons?i=wasm)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=opencv)](https://www.sqlite.org/)
+[![My Skills](https://skillicons.dev/icons?i=wasm)](https://webassembly.org/)
+[![My Skills](https://skillicons.dev/icons?i=opencv)](https://opencv.org/)
 
 ### 🛠 &nbsp;Games
-[![My Skills](https://skillicons.dev/icons?i=blender)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=robloxstudio)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=godot)](https://www.sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=lua)](https://www.sqlite.org/)
+[![My Skills](https://skillicons.dev/icons?i=blender)](https://www.blender.org/)
+[![My Skills](https://skillicons.dev/icons?i=robloxstudio)](https://create.roblox.com/)
+[![My Skills](https://skillicons.dev/icons?i=unreal)](https://www.unrealengine.com/es-ES)
+[![My Skills](https://skillicons.dev/icons?i=lua)](https://www.lua.org/)
 
 
-<br> </br>
-<br> </br>
+<hr> </hr>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
