@@ -10,7 +10,7 @@
 :e-mail: Puedes enviarme un email -> luisomdev@gmail.com .\
 :pushpin: Me gusta aprender nuevas cosas como electronica, juegos y fotos, etc, no soy un profesional en esas areas pero gusta explorar
 
-### 🛠 &nbsp;Tech Stack
+### :technologist: Tech general
 [![My Skills](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/)
@@ -23,7 +23,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 [![My Skills](https://skillicons.dev/icons?i=redis)](https://redis.io/)
 
-### &nbsp;Frontend
+### :desktop_computer: Frontend
 [![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/es/docs/Glossary/HTML5)
 [![My Skills](https://skillicons.dev/icons?i=htmx)](https://htmx.org/)
 [![My Skills](https://skillicons.dev/icons?i=css)]([https://docker.com](https://developer.mozilla.org/en-US/docs/Web/CSS))
@@ -40,7 +40,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nuxtjs)](https://nuxt.com/)
 
 
-### &nbsp;Backend
+### :globe_with_meridians: Backend
 [![My Skills](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/)
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![My Skills](https://skillicons.dev/icons?i=nginx)](https://nginx.org/)
@@ -52,7 +52,7 @@
 [![My Skills](https://skillicons.dev/icons?i=hibernate)](https://hibernate.org/)
 [![My Skills](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io/)
 
-### &nbsp;Electronic
+### :nut_and_bolt: Electronic
 
 [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![My Skills](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/es)
@@ -60,7 +60,7 @@
 [![My Skills](https://skillicons.dev/icons?i=wasm)](https://webassembly.org/)
 [![My Skills](https://skillicons.dev/icons?i=opencv)](https://opencv.org/)
 
-### 🛠 &nbsp;Games
+### :video_game: Games
 [![My Skills](https://skillicons.dev/icons?i=blender)](https://www.blender.org/)
 [![My Skills](https://skillicons.dev/icons?i=robloxstudio)](https://create.roblox.com/)
 [![My Skills](https://skillicons.dev/icons?i=unreal)](https://www.unrealengine.com/es-ES)
